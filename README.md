@@ -1,0 +1,2 @@
+# Team1-COVID-19_Impact_on_Airbnb_in_the_Netherlands
+This Github Page is used for our project on Airbnb, in which we investigate how COVID-19 impacted pricing on Airbnb in the Netherlands. In particular, we investigate if the influence of Covid-19 differs between different regions in the Netherlands (e.g. are there differences between cities and the country side, or are there differences between the northern part of the Netherlands and the soutern?).
